@@ -1,0 +1,5 @@
+image:
+  registry: ghcr.io
+  repository: stefanprodan/podinfo
+  tag: "6.1.0"
+  digest: ""
